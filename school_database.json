@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "Sourabh",
+      "age": 20,
+      "email": "rajput@gmail.com",
+      "roll_number": "10"
+    },
+    {
+      "name": "raj",
+      "age": 12,
+      "email": "raj@gmail.com",
+      "roll_number": "12",
+      "marks": {}
+    }
+  ],
+  "teachers": [
+    {
+      "name": "rekha",
+      "age": 30,
+      "email": "rekha@gmail.com",
+      "subject": "hindi"
+    }
+  ]
+}
